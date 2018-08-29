@@ -1,0 +1,1 @@
+由第三方com.flyco.tablayout:FlycoTabLayout_Lib和StickyScrollView搭配而成，置顶吸附效果配合viewpager
